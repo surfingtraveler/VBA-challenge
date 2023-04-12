@@ -1,6 +1,6 @@
 # VBA-challenge
 
-Create a script that loops through all the stocks for one year and outputs the following information:
+Instructions for Homework as follows:  Create a script that loops through all the stocks for one year and outputs the following information:
 
   The ticker symbol
 
@@ -15,6 +15,9 @@ Create a script that loops through all the stocks for one year and outputs the f
   Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every year)     at once.
   
   Solution:
-    VBA script saved as in file format .vbs 
-    Screenshots of Excel summary for each analysis year 2018, 2019, and 2020
-    Screenshot of Message box "Assignment Completed for Rose Kasper"
+  
+    - VBA script saved as in file format .vbs 
+    
+    - Screenshots of Excel summary for each analysis year 2018, 2019, and 2020
+    
+    - Screenshot of Message box "Assignment Completed for Rose Kasper"
